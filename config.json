@@ -3,12 +3,14 @@
   "username": "benton-gray",
   "name": "Benton Gray",
   "userimg": "https://avatars3.githubusercontent.com/u/25157796?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "updated",
+  "order": "desc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
    "all"
-  ]
+  ],
+  "twitter": "benton_gray",
+  "linkedin": "benton-gray-06911497"
  }
 ]
